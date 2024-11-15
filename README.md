@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello, I'm Raj Kushwaha! 👋
+LinkedIn: [RajKushwaha](https://www.linkedin.com/in/rajkushwaha0111)
 
-<!--
-**rajkushwaha7584/rajkushwaha7584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Full-Stack Developer with a strong foundation in web development. Skilled in HTML, CSS, Bootstrap, JavaScript, Java, and advanced Java, with experience in creating engaging and responsive user experiences. I enjoy building interactive web applications and continuously learning new technologies. Let’s create something amazing together!
 
-Here are some ideas to get you started:
+### 🧰 Technologies & Tools
+- HTML5, CSS3, JavaScript, Java
+- Frameworks: Bootstrap
+- Version Control: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Ask me about
+- Front-end Development
+- Web Development Projects
+
+### 📫 How to reach me
+- **Email:** raj24kush@gmail.com
+- **LinkedIn:** [Raj's LinkedIn](https://www.linkedin.com/in/rajkushwaha0111)
+- **Instagram:** [Instagram Profile](https://www.instagram.com/rajkushwaha7584)
