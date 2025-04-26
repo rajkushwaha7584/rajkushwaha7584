@@ -16,4 +16,4 @@ I am a passionate Full-Stack Developer with a strong foundation in web developme
 - **Email:** raj24kush@gmail.com
 - **LinkedIn:** [Raj's LinkedIn](https://www.linkedin.com/in/rajkushwaha0111)
 - **Instagram:** [Instagram Profile](https://www.instagram.com/rajkushwaha7584)
-- **Portfolio:** [My Portfolio](rajkushwaha7584.github.io/Portfolio/)
+- **Portfolio:** [My Portfolio](https://rajkushwaha7584.github.io/Portfolio/)
