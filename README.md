@@ -63,6 +63,12 @@ Always eager to learn new technologies and improve system design skills.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkushwaha7584&theme=tokyonight" />
 </p>
+---
+## 🧰 Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,bootstrap,docker,kubernetes,git,github" />
+</p>
 
 ---
 
