@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Raj Kushwaha
+<h1 align="center">Hi 👋, I'm Raj Kushwaha</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend-Focused+Full-Stack+Developer;Spring+Boot+Enthusiast;Microservices+Architect;Docker+%7C+Kubernetes+Learner;Java+Developer" />
+</p>
 
 🚀 **Backend-Focused Full-Stack Developer**  
 🔗 [LinkedIn](https://www.linkedin.com/in/rajkushwaha0111) | 🌐 [Portfolio](https://rajkushwaha7584.github.io/Portfolio/)
@@ -38,6 +42,20 @@ Always eager to learn new technologies and improve system design skills.
 ### 🔧 Version Control
 - Git  
 - GitHub  
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajkushwaha7584&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha7584&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkushwaha7584&theme=tokyonight" />
+</p>
 
 ---
 
