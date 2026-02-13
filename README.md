@@ -1,11 +1,28 @@
 <h1 align="center">Hi 👋, I'm Raj Kushwaha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend-Focused+Full-Stack+Developer;Spring+Boot+Enthusiast;Microservices+Architect;Docker+%7C+Kubernetes+Learner;Java+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend-Focused+Full-Stack+Developer;Spring+Boot+Specialist;Microservices+Architect;Docker+%7C+Kubernetes+Enthusiast;Building+Scalable+Backend+Systems" />
 </p>
 
-🚀 **Backend-Focused Full-Stack Developer**  
-🔗 [LinkedIn](https://www.linkedin.com/in/rajkushwaha0111) | 🌐 [Portfolio](https://rajkushwaha7584.github.io/Portfolio/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajkushwaha0111">
+    <img src="https://img.shields.io/badge/LinkedIn-Raj%20Kushwaha-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://rajkushwaha7584.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rajkushwaha7584&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 About Me
+
+💻 Backend-focused Full-Stack Developer with strong expertise in **Java & Spring Boot**  
+🔐 Passionate about building **secure, scalable & high-performance backend systems**  
+☁️ Experienced in **Docker & Kubernetes** for cloud-native deployments  
+📈 Constantly improving **system design & microservices architecture skills**
+
 ---
 
 ## 🐍 Contribution Snake
@@ -16,86 +33,50 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I am a **Backend-Focused Full-Stack Developer** with a strong foundation in **Java and modern web technologies**.  
-I specialize in building **scalable, secure, and high-performance backend systems**, RESTful APIs, and **microservices**.
-
-I enjoy working with **Spring Boot, Docker, and Kubernetes** to build **production-ready, cloud-native applications**.  
-Always eager to learn new technologies and improve system design skills.
-
----
-
-## 🧰 Technologies & Tools
-
-### 🖥️ Backend
-- Java, JEE, Advanced Java  
-- Spring, Spring Boot  
-- Spring MVC, Spring Security  
-- RESTful APIs  
-- Microservices Architecture  
-
-### 🎨 Frontend
-- HTML5  
-- CSS3  
-- JavaScript  
-- Bootstrap  
-
-### ⚙️ DevOps & Cloud-Native
-- Docker  
-- Docker Hub  
-- Kubernetes  
-
-### 🔧 Version Control
-- Git  
-- GitHub  
----
-## 📊 GitHub Stats
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajkushwaha7584&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha7584&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkushwaha7584&theme=tokyonight" />
-</p>
----
-## 🧰 Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,bootstrap,docker,kubernetes,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,bootstrap,docker,kubernetes,git,github,mysql" />
 </p>
 
 ---
 
-## 🏗️ What I’m Working On
-- Building **Spring Boot Microservices**
-- Containerizing applications using **Docker**
-- Deploying services using **Kubernetes**
-- Improving backend performance & security
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajkushwaha7584&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha7584&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkushwaha7584&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏗️ Currently Working On
+
+- 🔹 Building **Spring Boot Microservices**
+- 🔹 Containerizing applications using **Docker**
+- 🔹 Deploying services using **Kubernetes**
+- 🔹 Enhancing backend performance & security
 
 ---
 
 ## 💬 Ask Me About
-- Java & Spring Boot  
-- Backend Development  
-- Microservices  
-- Docker & Kubernetes  
-- Full-Stack Web Development  
 
+`Java` • `Spring Boot` • `Microservices` • `REST APIs` • `Docker` • `Kubernetes` • `Backend Architecture`
 
 ---
 
 ## 🤝 Connect With Me
 
-- 📧 Email: **raj24kush@gmail.com**
-- 💼 LinkedIn: [Raj Kushwaha](https://www.linkedin.com/in/rajkushwaha0111)
-- 📸 Instagram: [Instagram Profile](https://www.instagram.com/rajkushwaha7584)
+📧 **Email:** raj24kush@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/rajkushwaha0111  
+📸 **Instagram:** https://www.instagram.com/rajkushwaha7584  
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
