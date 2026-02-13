@@ -23,13 +23,6 @@
 ☁️ Experienced in **Docker & Kubernetes** for cloud-native deployments  
 📈 Constantly improving **system design & microservices architecture skills**
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/rajkushwaha7584/rajkushwaha7584/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
@@ -74,8 +67,15 @@
 📧 **Email:** raj24kush@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/rajkushwaha0111  
 📸 **Instagram:** https://www.instagram.com/rajkushwaha7584  
-
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/rajkushwaha7584/rajkushwaha7584/blob/output/github-contribution-grid-snake.svg" />
+</p>
+---
+
 
 <p align="center">
   ⭐ If you like my work, consider giving a star to my repositories!
