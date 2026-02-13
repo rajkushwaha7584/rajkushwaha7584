@@ -23,7 +23,6 @@
 ☁️ Experienced in **Docker & Kubernetes** for cloud-native deployments  
 📈 Constantly improving **system design & microservices architecture skills**
 
-
 ---
 
 ## 🧰 Tech Stack
@@ -38,11 +37,28 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajkushwaha7584&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha7584&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha7584&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rajkushwaha7584&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💻 Language Contribution Analyzer
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajkushwaha7584&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajkushwaha7584&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajkushwaha7584/rajkushwaha7584/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -67,38 +83,9 @@
 📧 **Email:** raj24kush@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/rajkushwaha0111  
 📸 **Instagram:** https://www.instagram.com/rajkushwaha7584  
+
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/rajkushwaha7584/rajkushwaha7584/blob/output/github-contribution-grid-snake.svg" />
-</p>
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajkushwaha7584&theme=tokyonight" />
-</p>
----
-## 💻 Language Contribution Analyzer
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha7584&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajkushwaha7584&theme=tokyonight" height="180"/>
-</p>
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajkushwaha7584&theme=tokyonight" />
-</p>
----
-
-## 💻 Language Contribution Analyzer
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha7584&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
-</p>
----
 <p align="center">
   ⭐ If you like my work, consider giving a star to my repositories!
 </p>
