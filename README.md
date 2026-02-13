@@ -37,12 +37,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajkushwaha7584&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha7584&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajkushwaha7584&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha7584&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkushwaha7584&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rajkushwaha7584&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -76,7 +76,29 @@
 </p>
 ---
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajkushwaha7584&theme=tokyonight" />
+</p>
+---
+## 💻 Language Contribution Analyzer
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha7584&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajkushwaha7584&theme=tokyonight" height="180"/>
+</p>
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajkushwaha7584&theme=tokyonight" />
+</p>
+---
+
+## 💻 Language Contribution Analyzer
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha7584&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+</p>
+---
 <p align="center">
   ⭐ If you like my work, consider giving a star to my repositories!
 </p>
