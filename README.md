@@ -33,20 +33,13 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 💻 Language & GitHub Contribution Analyzer
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajkushwaha7584&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=rajkushwaha7584&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 💻 Language Contribution Analyzer
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha7584&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajkushwaha7584&theme=tokyonight" height="170"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajkushwaha7584&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkushwaha7584&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajkushwaha7584&theme=tokyonight" height="170"/>
 </p>
 
 ---
