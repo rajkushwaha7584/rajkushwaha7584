@@ -56,11 +56,6 @@ Always eager to learn new technologies and improve system design skills.
 - Docker & Kubernetes  
 - Full-Stack Web Development  
 
----
-
-## 📈 GitHub Stats
-
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajkushwaha7584&show_icons=true&theme=default)
 
 ---
 
