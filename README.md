@@ -6,6 +6,13 @@
 
 🚀 **Backend-Focused Full-Stack Developer**  
 🔗 [LinkedIn](https://www.linkedin.com/in/rajkushwaha0111) | 🌐 [Portfolio](https://rajkushwaha7584.github.io/Portfolio/)
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/rajkushwaha7584/rajkushwaha7584/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
