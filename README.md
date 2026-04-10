@@ -64,7 +64,7 @@
 
 ## 💬 Ask Me About
 
-`Java` • `Spring Boot` • `Microservices` • `REST APIs` • `Docker` • `Kubernetes` • `Backend Architecture`
+`Java` • `Spring Boot` • `Spring AI` • `Microservices` • `REST APIs` • `Docker` • `Kubernetes` • `Backend Architecture`
 
 ---
 
