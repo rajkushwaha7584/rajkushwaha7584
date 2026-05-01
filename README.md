@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raj Kushwaha</h1>
+<h1 align="center">Hi 👋, I'm Raj </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend-Focused+Full-Stack+Developer;Spring+Boot+Specialist;Microservices+Architect;Docker+%7C+Kubernetes+Enthusiast;Building+Scalable+Backend+Systems" />
