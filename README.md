@@ -1,273 +1,338 @@
-# <h1 align="center">Hi 👋, I'm Raj Kushwaha</h1>
+````markdown
+<h1 align="center">Hi 👋, I'm Raj Kushwaha</h1>
+
+<h3 align="center">
+DevOps Engineer | AWS Cloud Engineer | Kubernetes Enthusiast | Infrastructure as Code
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;AWS+Cloud+Engineer;Terraform+%7C+Kubernetes+%7C+Docker;CI%2FCD+Automation+Expert;Infrastructure+as+Code+(IaC);Cloud+Native+Applications;Monitoring+%26+Observability" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+Cloud+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Infrastructure+as+Code;Cloud+Security+%26+AWS+Landing+Zone;Monitoring+%7C+Observability;Always+Learning+New+Cloud+Technologies" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajkushwaha0111">
-    <img src="https://img.shields.io/badge/LinkedIn-Raj%20Kushwaha-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://rajkushwaha7584.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=rajkushwaha7584&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<a href="https://www.linkedin.com/in/rajkushwaha0111">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://rajkushwaha7584.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=rajkushwaha7584&style=for-the-badge&color=blue"/>
+
 </p>
 
 ---
 
 # 🚀 About Me
 
-💻 DevOps Engineer passionate about building reliable and scalable cloud infrastructure.
+<table>
 
-☁️ Hands-on experience with AWS, Kubernetes, Docker, Terraform, GitHub Actions, Jenkins, and Linux.
+<tr>
 
-🚀 Strong focus on Infrastructure as Code (IaC), CI/CD automation, cloud-native deployments, monitoring, and DevSecOps practices.
+<td width="55%" valign="top">
 
-📚 Continuously learning advanced AWS architecture, Kubernetes, GitOps, observability, and platform engineering.
+## 👨‍💻 DevOps Engineer
+
+- ☁️ Working with **AWS Cloud Infrastructure**
+- 🏗 Building Infrastructure using **Terraform**
+- ☸ Deploying applications on **Kubernetes & Amazon EKS**
+- 🐳 Containerizing applications using **Docker**
+- 🔄 Building **CI/CD Pipelines**
+- 🔐 Interested in **Cloud Security & DevSecOps**
+- 📊 Monitoring using **Prometheus, Grafana & CloudWatch**
+- 🚀 Learning Platform Engineering & GitOps
+- 🌱 Basic knowledge of **Microsoft Azure**
+
+</td>
+
+<td width="45%" valign="top">
+
+## 🎯 Current Goals
+
+✔ AWS Solutions
+
+✔ Terraform Modules
+
+✔ Amazon EKS
+
+✔ Kubernetes
+
+✔ Helm
+
+✔ GitHub Actions
+
+✔ Jenkins
+
+✔ AWS Landing Zone
+
+✔ Cloud Security
+
+✔ DevSecOps
+
+✔ High Availability
+
+✔ Monitoring
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 🛠 Tech Stack
 
-## ☁️ Cloud
+## ☁️ Cloud Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws" />
+
+<img src="https://skillicons.dev/icons?i=aws,azure"/>
+
 </p>
 
-AWS Services
+### AWS Services
 
-* IAM
-* VPC
-* EC2
-* EKS
-* ECR
-* RDS
-* Route53
-* CloudWatch
-* CloudTrail
-* AWS Config
-* AWS Organizations
-* WAF
-* ALB
-* Secrets Manager
-* KMS
+✔ AWS Organizations
+
+✔ AWS Landing Zone
+
+✔ IAM
+
+✔ IAM Identity Center
+
+✔ VPC
+
+✔ EC2
+
+✔ EKS
+
+✔ ECR
+
+✔ RDS
+
+✔ Route53
+
+✔ Application Load Balancer
+
+✔ Auto Scaling
+
+✔ CloudWatch
+
+✔ CloudTrail
+
+✔ AWS Config
+
+✔ WAF
+
+✔ Secrets Manager
+
+✔ KMS
+
+✔ NAT Gateway
+
+✔ Internet Gateway
+
+✔ Security Groups
+
+✔ VPC Flow Logs
 
 ---
 
-## ⚙️ DevOps Tools
+## ⚙️ DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,git,github,linux,bash" />
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,git,github,bash,linux"/>
+
 </p>
 
-* Docker
-* Kubernetes
-* Helm
-* Terraform
-* Jenkins
-* GitHub Actions
-* Git
-* Linux
-* Bash Scripting
+- Docker
+- Kubernetes
+- Helm
+- Terraform
+- Jenkins
+- GitHub Actions
+- Git
+- Linux
+- Bash
 
 ---
 
-## 📊 Monitoring & Observability
+## 📊 Monitoring
 
-* Prometheus
-* Grafana
-* InfluxDB
-* AWS CloudWatch
-* VPC Flow Logs
+<p>
+
+<img src="https://skillicons.dev/icons?i=grafana,prometheus"/>
+
+</p>
+
+- Prometheus
+
+- Grafana
+
+- InfluxDB
+
+- CloudWatch
 
 ---
 
 ## 🔐 DevSecOps
 
-* Trivy
-* OWASP
-* IAM Best Practices
-* Security Groups
-* AWS WAF
-* Secrets Manager
-* KMS
+- AWS WAF
+
+- AWS KMS
+
+- AWS Secrets Manager
+
+- IAM Best Practices
+
+- Security Groups
+
+- AWS Config
+
+- CloudTrail
+
+- VPC Flow Logs
 
 ---
 
 ## 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,go,python,bash" />
+
+<img src="https://skillicons.dev/icons?i=java,python,go,bash"/>
+
 </p>
 
-* Java
-* Spring Boot
-* Go
-* Python
-* Bash
+Java
+
+Go
+
+Python
+
+Bash
 
 ---
 
-## 🗄 Database
+## 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+
 </p>
 
-* MySQL
-* PostgreSQL
-* Amazon RDS
+- MySQL
 
----
+- PostgreSQL
 
-## 📦 Container & GitOps
-
-* Docker
-* Kubernetes
-* Helm
-* Argo CD
-* Amazon ECR
+- Amazon RDS
 
 ---
 
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajkushwaha7584&theme=tokyonight" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajkushwaha7584&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkushwaha7584&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajkushwaha7584&theme=tokyonight" height="170"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajkushwaha7584&theme=tokyonight" height="170"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajkushwaha7584&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkushwaha7584&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajkushwaha7584&theme=tokyonight" height="170"/>
+
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajkushwaha7584/rajkushwaha7584/output/github-contribution-grid-snake.svg" width="900" />
+
+<img src="https://raw.githubusercontent.com/rajkushwaha7584/rajkushwaha7584/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Featured Projects
 
-* ☁️ AWS Infrastructure Automation
-* 🏗 Infrastructure as Code using Terraform
-* ☸ Kubernetes & Amazon EKS
-* 🐳 Docker Containerization
-* 🔄 CI/CD using GitHub Actions & Jenkins
-* 📊 Monitoring using Prometheus & Grafana
-* 🔐 DevSecOps & Cloud Security
-* 🌍 High Availability & Scalable Cloud Architecture
-
----
-
-# 📂 Featured Projects
-
-### ☁️ AWS Landing Zone with Guardrails
-
-* AWS Organizations
-* SCPs
-* IAM Identity Center
-* CloudTrail
-* AWS Config
-* Security Guardrails
-
----
-
-### ☸ Three-Tier Kubernetes Deployment
-
-* Kubernetes
-* HAProxy Ingress
-* Docker
-* Persistent Volumes
-* HPA
-* ConfigMaps
-* Secrets
-
----
-
-### 🏗 Terraform AWS Infrastructure
-
-* VPC
-* Public & Private Subnets
-* NAT Gateway
-* Internet Gateway
-* Route Tables
-* Security Groups
-* EC2
-* RDS
-* ECR
-* EKS
-
----
-
-### 📊 Jenkins Monitoring Dashboard
-
-* Jenkins
-* InfluxDB
-* Grafana
-* Prometheus
-
----
-
-### 🔄 CI/CD Pipelines
-
-* GitHub Actions
-* Jenkins
-* Docker
-* Kubernetes
-* Helm
-* Amazon ECR
+| Project | Technologies |
+|----------|-------------|
+| ☁️ AWS Landing Zone | AWS Organizations, SCP, IAM Identity Center |
+| 🏗 AWS Infrastructure using Terraform | Terraform, EC2, VPC, ALB, EKS, RDS |
+| ☸ Kubernetes Three-Tier Application | Kubernetes, Docker, HAProxy, Helm |
+| 🔄 CI/CD Pipeline | GitHub Actions, Jenkins, Docker |
+| 📊 Monitoring Stack | Prometheus, Grafana, InfluxDB |
+| 🔐 Secure AWS Architecture | WAF, CloudTrail, Config, KMS |
 
 ---
 
 # 💬 Ask Me About
 
-`AWS`
+```yaml
+Cloud:
+  - AWS
+  - Azure (Basic)
 
-`Terraform`
+IaC:
+  - Terraform
 
-`Docker`
+Containers:
+  - Docker
+  - Kubernetes
+  - Helm
 
-`Kubernetes`
+CI/CD:
+  - GitHub Actions
+  - Jenkins
 
-`Helm`
+Monitoring:
+  - Prometheus
+  - Grafana
+  - CloudWatch
 
-`GitHub Actions`
-
-`Jenkins`
-
-`Linux`
-
-`CI/CD`
-
-`Prometheus`
-
-`Grafana`
-
-`Cloud Infrastructure`
-
-`DevSecOps`
-
-`Amazon EKS`
+Security:
+  - AWS Landing Zone
+  - IAM
+  - WAF
+  - CloudTrail
+  - AWS Config
+  - KMS
+  - Secrets Manager
+```
 
 ---
 
 # 🤝 Connect With Me
 
-📧 **Email:** [raj24kush@gmail.com](mailto:raj24kush@gmail.com)
+📧 **Email**
 
-💼 **LinkedIn:** https://www.linkedin.com/in/rajkushwaha0111
+> raj24kush@gmail.com
 
-🌐 **Portfolio:** https://rajkushwaha7584.github.io/Portfolio/
+💼 **LinkedIn**
 
-📸 **Instagram:** https://www.instagram.com/rajkushwaha7584
+> https://www.linkedin.com/in/rajkushwaha0111
+
+🌐 **Portfolio**
+
+> https://rajkushwaha7584.github.io/Portfolio
+
+📷 **Instagram**
+
+> https://www.instagram.com/rajkushwaha7584
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+### ⭐ Thanks for visiting my profile!
+
+### If you like my projects, don't forget to ⭐ them.
+
 </p>
+````
