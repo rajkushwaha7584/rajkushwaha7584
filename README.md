@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raj Kushwaha</h1>
 
 <h3 align="center">
-DevOps Engineer
+DevOps Engineer | AWS Cloud Engineer | Kubernetes | Terraform | CI/CD | DevSecOps
 </h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rajkushwaha7584&show_icons=true&theme=tokyonight" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+Cloud+Engineer;Terraform+%7C+Kubernetes+%7C+Docker;CI%2FCD+Automation;Infrastructure+as+Code;Cloud+Native+Applications;Monitoring+%7C+Observability;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -46,7 +46,9 @@ DevOps Engineer
 
 <td width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajkushwaha7584&show_icons=true&theme=tokyonight"/>
+<a href="https://github.com/rajkushwaha7584">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajkushwaha7584&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</a>
 
 </td>
 
