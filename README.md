@@ -46,7 +46,7 @@ DevOps Engineer | AWS Cloud Engineer | Kubernetes | Terraform | CI/CD | DevSecOp
 
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="320"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajkushwaha7584&show_icons=true&theme=tokyonight" width="320"/>
 
 </td>
 
