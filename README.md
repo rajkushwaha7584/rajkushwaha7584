@@ -44,11 +44,9 @@ DevOps Engineer | AWS Cloud Engineer | Kubernetes | Terraform | CI/CD | DevSecOp
 
 </td>
 
-<td width="45%">
+<td width="45%" align="center">
 
-<a href="https://github.com/rajkushwaha7584">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajkushwaha7584&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</a>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="320"/>
 
 </td>
 
