@@ -5,7 +5,7 @@ DevOps Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+Cloud+Engineer;Terraform+%7C+Kubernetes+%7C+Docker;CI%2FCD+Automation;Infrastructure+as+Code;Cloud+Native+Applications;Monitoring+%7C+Observability;Always+Learning+New+Technologies" />
+<img src="https://github-readme-stats.vercel.app/api?username=rajkushwaha7584&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
