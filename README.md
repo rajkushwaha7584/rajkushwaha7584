@@ -55,82 +55,20 @@ DevOps Engineer | AWS Cloud Engineer | Kubernetes | Terraform | CI/CD | DevSecOp
 
 ---
 
-# 🛠 Tech Stack
+## ☁️ AWS
 
-## ☁️ Cloud Platforms
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,azure"/>
-
-</p>
-
-### AWS Services
-
-✔ IAM
-
-✔ Organizations
-
-✔ IAM Identity Center
-
-✔ Control Tower
-
-✔ Landing Zone
-
-✔ SCP (Service Control Policies)
-
-✔ VPC
-
-✔ EC2
-
-✔ EKS
-
-✔ ECR
-
-✔ Route53
-
-✔ ALB
-
-✔ Auto Scaling
-
-✔ CloudWatch
-
-✔ CloudTrail
-
-✔ AWS Config
-
-✔ WAF
-
-✔ RDS
-
-✔ KMS
-
-✔ Secrets Manager
-
-✔ Security Groups
-
-✔ VPC Flow Logs
-
-✔ NAT Gateway
-
-✔ Internet Gateway
-
----
-
-### Microsoft Azure (Basic)
-
-✔ Azure Virtual Machines
-
-✔ Virtual Network
-
-✔ Azure Storage
-
-✔ Azure Resource Groups
-
-✔ Azure Monitor
-
-✔ Azure Active Directory (Basics)
-
+![EC2](https://img.shields.io/badge/EC2-orange?style=for-the-badge&logo=amazonaws)
+![EKS](https://img.shields.io/badge/EKS-orange?style=for-the-badge&logo=amazoneks)
+![IAM](https://img.shields.io/badge/IAM-orange?style=for-the-badge&logo=amazonaws)
+![VPC](https://img.shields.io/badge/VPC-orange?style=for-the-badge&logo=amazonaws)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-orange?style=for-the-badge&logo=amazoncloudwatch)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-orange?style=for-the-badge&logo=amazonaws)
+![Route53](https://img.shields.io/badge/Route53-orange?style=for-the-badge&logo=amazonroute53)
+![RDS](https://img.shields.io/badge/RDS-orange?style=for-the-badge&logo=amazonrds)
+![ECR](https://img.shields.io/badge/ECR-orange?style=for-the-badge&logo=amazonaws)
+![ALB](https://img.shields.io/badge/ALB-orange?style=for-the-badge)
+![AWS Config](https://img.shields.io/badge/AWS_Config-orange?style=for-the-badge)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-orange?style=for-the-badge)
 ---
 
 # 🚀 DevOps Tools
