@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Kushwaha</h1>
 
 <h3 align="center">
-DevOps Engineer | AWS Cloud Engineer | Kubernetes | Terraform | CI/CD | DevSecOps
+DevOps Engineer
 </h3>
 
 <p align="center">
